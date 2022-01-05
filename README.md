@@ -2,7 +2,7 @@
 # Διαχείριση Πελατών
 Διαχείριση Πελατών για επιχειρήσεις. GR ☕
 
-![photo](https://user-images.githubusercontent.com/63431776/145762105-cdb603bd-c524-42fc-a73f-79b5cbe71c94.PNG)
+![manage_customers](https://user-images.githubusercontent.com/63431776/148146885-7c547c8a-f389-429f-b576-b0f082b99f03.png)
 
 
 Στείλτε μου Email για περαιτέρω πληροφορίες: 
